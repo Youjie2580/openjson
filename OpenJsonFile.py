@@ -1,7 +1,7 @@
 import json
 
 Jplist = []#JSONを行ごとに読み取る
-listrows = []#Jlistを行ごとに配列として追加する
+listrows = []#テキスト出力用
 
 f = open('任意の.jsonファイル', 'r' ,encoding='utf-8')
 jsn = json.load(f)#JSONファイルを開く
