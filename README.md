@@ -1,0 +1,8 @@
+# openjson
+OpenWeatherの天気APIを叩くに際に必要となる都市リストを活用するために作成しました。
+
+OpenWeatherの都市リスト.JSONファイルを日本のみにフィルタリングしてテキスト化するPythonコードです
+
+http://bulk.openweathermap.org/sample/からファイルをダウンロードして解凍してください
+
+VScode環境で動作確認しています
